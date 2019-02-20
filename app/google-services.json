@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341322587124",
+    "firebase_url": "https://schoolvoyageur.firebaseio.com",
+    "project_id": "schoolvoyageur",
+    "storage_bucket": "schoolvoyageur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341322587124:android:b03698cb4e3a1549",
+        "android_client_info": {
+          "package_name": "com.example.jeanamoress.school_voyageur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341322587124-i9q436p9ikc1s8d1kaa8rv2ggpcfcmuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jeanamoress.school_voyageur",
+            "certificate_hash": "df0861d6e825a3ae4648d02f01187e1f786f75c0"
+          }
+        },
+        {
+          "client_id": "341322587124-6f5mjr4ubkd20cs2cc65ovthp5bprqo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0CkzxZcpEAK80z5pDWaGf-fAogBcP18o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341322587124-6f5mjr4ubkd20cs2cc65ovthp5bprqo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
